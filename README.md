@@ -1,0 +1,2 @@
+# fuckopera
+fuck go lang
